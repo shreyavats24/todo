@@ -1,0 +1,55 @@
+h2{
+    text-align: center;
+}
+.div1{
+    background-color: rgb(197, 194, 194);
+    color: black;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 20px;
+    max-width: 500px;
+}
+.btn{
+    position: absolute;
+    left:310px;
+    top:0;
+}
+.btn2{
+    position: absolute;
+    left:335px;
+    top:0;
+}
+.btn3{
+    position: absolute;
+    left:350px;
+    top:0;
+}
+li{
+    list-style-type: none;
+    color: black;
+    position: relative;
+    padding: 0px;
+    border-bottom: 1px solid black;
+
+}
+li>p{
+    max-width: 280px;
+    overflow-x: auto;
+} 
+
+ol{
+    margin:0;
+    padding:0;
+}
+textarea{
+    margin: 20px;
+    padding: 20px;
+}
+.div2{
+    text-align: center;
+    /* font-size: 40px; */
+    border-style: none;
+}
+.mainDiv{
+    display: flex;
+}
